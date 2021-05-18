@@ -183,3 +183,4 @@ const estilo = StyleSheet.create({
 
 const {Tela, Tela2, Imagem, Titulo, Texto, activeDotStyle, dotStyle} = estilo;
 ```
+
